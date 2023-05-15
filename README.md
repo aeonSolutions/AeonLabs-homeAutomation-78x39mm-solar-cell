@@ -35,7 +35,7 @@ One important take way about this prototype project is in the ability to be inst
 ## PCB
 
 <p align="center">
-<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Solar-Cell-offgrid-Power-Monitor-for-Indoor-Window-Tiles/blob/main/Designs/pcb_front.png" height="350">
+<img src="https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/blob/main/media/pcb_front.jpg" height="350">
 </p>
 
 <br>
