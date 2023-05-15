@@ -23,10 +23,9 @@ When connected in series and installed on several windows and networked, can pow
 One important take way about this prototype project is in the ability to be installed on any traditional apartment or home in a big city, requiring  124mm of window glass estate, at the top or at the bottom. And it can connect to existing home automation network or systems. 
 
 <p align="center">
-<a href="https://s.click.aliexpress.com/e/_DCnJW0V">
-<img src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Power-Managment-Single-SolarCELL-18650-battery-storage/blob/main/Designs/blue%20solar%20tiles.png" height="350">
-</a>
+<a href="https://s.click.aliexpress.com/e/_DlwnoeN" target="_blank"><img src="//ae01.alicdn.com/kf/S071bf58005264a158c1cbb6d7a005f94n.jpg_80x80.jpg" /></a>
 </p>
+
 
 
 
