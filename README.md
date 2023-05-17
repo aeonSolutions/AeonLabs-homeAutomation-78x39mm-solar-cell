@@ -33,7 +33,11 @@ One important take way about this prototype project is in the ability to be inst
 
 ## PCB
 
-There are 10 different pcb types for this same solar cell assembly. Each type enables power harvesting on an indepented two copper track power lines. 
+There are 10 different pcb types for this same solar cell assembly. Each type enables power harvesting on an indepented two copper track power lines. An ulimited number of solar cell tiles can be connected in series. Common setups are:
+
+- for LiFePo4 3.2V setups : 7x solar cell tiles connected together in series
+- for LiPo 4.2V setups : 9x solar cell tiles connected together in series
+- custom: Integer voltage value + 1 solar cell tiles connected together in series
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/blob/main/media/pcb_front.jpg" height="350">
