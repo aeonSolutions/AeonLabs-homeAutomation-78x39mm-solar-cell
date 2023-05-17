@@ -69,6 +69,7 @@ There are 10 different pcb types for this same solar cell assembly. Each type en
 </p>
 
 <br>
+
 ### Instalation Example
 
 <p align="center">
