@@ -33,6 +33,8 @@ One important take way about this prototype project is in the ability to be inst
 
 ## PCB
 
+There are 10 different pcb types for this same solar cell assembly. Each type enables power harvesting on an indepented two copper track power lines. 
+
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/blob/main/media/pcb_front.jpg" height="350">
  <img src= "https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/blob/main/media/pcb_back.jpg" height="350">
