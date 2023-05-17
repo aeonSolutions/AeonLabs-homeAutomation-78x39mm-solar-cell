@@ -39,6 +39,8 @@ There are 10 different pcb types for this same solar cell assembly. Each type en
 - for LiPo 4.2V setups : 9x solar cell tiles connected together in series
 - custom: Integer voltage value + 1 solar cell tiles connected together in series
 
+<br>
+
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/blob/main/media/pcb_front.jpg" height="350">
  <img src= "https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/blob/main/media/pcb_back.jpg" height="350">
