@@ -1,0 +1,24 @@
+Drill report for 78,1x39,1mm Solr tile.kicad_pcb
+Created on 5/17/2023 3:36:25 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file '78,1x39,1mm Solr tile-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  1.000mm  0.0394"  (400 holes)
+    T2  2.000mm  0.0787"  (130 holes)
+
+    Total plated holes count 530
+
+
+Drill file '78,1x39,1mm Solr tile-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  2.100mm  0.0827"  (40 holes)
+
+    Total unplated holes count 40
