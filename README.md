@@ -70,7 +70,7 @@ There are 10 different pcb types for this same solar cell assembly. Each type en
 
 <br>
 
-### Instalation Example
+### Instalation example on a window with a wood frame
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/blob/main/media/20230517_143035.jpg" width="350">
