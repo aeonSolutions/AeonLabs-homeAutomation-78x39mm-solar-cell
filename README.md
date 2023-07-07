@@ -18,26 +18,21 @@
 
 This is a simple PCB for a direct fit on commercially available [blue solar cell tiles](https://s.click.aliexpress.com/e/_DlwnoeN)  with dimensions 78x39mm. This Smart Device is intended to be connected to the [distributed Indoors power storage](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/) and installed on the top or downside of transparent glass windows at a home or office. This PCB, when assembled with a blue solar cell tile, can be used to power a low voltage 4.2V indoor illumination network using ultra-low power micro LED strips.  For instance, [this one](https://s.click.aliexpress.com/e/_DCKg9xJ) sold on AliExpress.   
 
-When connected in series and installed on several windows and networked, can power off the grid a 4.2V LED illumination on all rooms and compartments at a home or office. During evenings and at night until bedtime. If one intends to use it to power indoors LED illumination during the day is required a High Capacity Power Bank connected to all first tiles of all the series. For instance this [power bank](https://s.click.aliexpress.com/e/_Ddl7nsh) here. 
+When connected in series and installed on several windows and networked, can power off the grid with a 4.2V LED illumination on all rooms and compartments at a home or office. During evenings and at night until bedtime. If one intends to use it to power indoors LED illumination during the day is required a High Capacity Power Bank connected to all first tiles of all the series. For instance this [power bank](https://s.click.aliexpress.com/e/_Ddl7nsh) here. 
 
-One important takeway about this prototype project is the ability to be installed on any traditional apartment or home in a big city, requiring  124mm of window glass estate, at the top or at the bottom. And it can connect to existing home automation network or systems. If your prefer, can read this project on Atuodesk's Intructsables.com website , [here](https://www.instructables.com/78x39mm-Solar-Cell-Photovoltaics/).
+One important takeaway about this prototype project is the ability to be installed on any traditional apartment or home in a big city, requiring  124mm of window glass estate, at the top or at the bottom. And it can connect to existing home automation networks or systems. If you prefer, can read this project on Atuodesk's Intructsables.com website, [here](https://www.instructables.com/78x39mm-Solar-Cell-Photovoltaics/).
 
 <p align="center">
 <a href="https://s.click.aliexpress.com/e/_DlwnoeN" target="_blank"><img src="https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/blob/main/media/78x39mm_solar_tile.jpg" height="350" /></a>
 </p>
 
-
-
-
-<br>
-
 ## PCB
 
-There are 10 different pcb types for this same solar cell assembly. Each type enables power harvesting on an indepented two copper track power lines. An ulimited number of solar cell tiles can be connected in series. Common setups are:
+There are 10 different PCB types for this same solar cell assembly. Each type enables power harvesting on independent two copper track power lines. An unlimited number of solar cell tiles can be connected in series. Common setups are:
 
-- for LiFePo4 3.2V setups : 7x solar cell tiles connected together in series
-- for LiPo 4.2V setups : 9x solar cell tiles connected together in series
-- custom: Integer voltage value + 1 solar cell tiles connected together in series
+- for LiFePo4 3.2V setups: 7x solar cell tiles connected together in series
+- for LiPo 4.2V setups: 9x solar cell tiles connected together in series
+- custom: Integer voltage value + 1 solar cell tile connected together in series
 
 <br>
 
