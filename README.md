@@ -20,6 +20,18 @@ This is a simple PCB for a direct fit on commercially available [blue solar cell
 
 When connected in series and installed on several windows and networked, can power off the grid 4.2V DC LED lights on all rooms and compartments at a home or office. During evenings and at night until bedtime. If one intends to use it to power indoors LED illumination during the day is required a High Capacity Power Bank connected to all first tiles of all the series. For instance this [power bank](https://s.click.aliexpress.com/e/_Ddl7nsh) here.  
 
+<br>
+
+If you prefer, can read this project on ....
+
+- Autodesk's Intructables.com website, [here](https://www.instructables.com/member/mtpsilva/?publicPreview=true)
+- Hackster.io website [here](https://www.hackster.io/mtpsilva/smart-add-on-for-the-philips-senseo-coffee-machine-06d9bf)
+- Medium.com webiste [here](https://medium.com/@mtpsilva)
+  
+I've created a WhatsApp Chat for aditional support of feedback, join us [here](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) !
+
+<br>
+
 One important takeaway about this prototype project is the ability to be installed on any traditional apartment or home in a big city, requiring  124mm of window glass estate, at the top or at the bottom. And it can connect to existing home automation networks or systems. If you prefer, can read this project on Atuodesk's Intructsables.com website, [here](https://www.instructables.com/78x39mm-Solar-Cell-Photovoltaics/). And also on Hackster.io website [here](https://www.hackster.io/mtpsilva/ulta-low-power-home-dc-electrical-system-1st-iteration-ad640e)
 
 <p align="center">
