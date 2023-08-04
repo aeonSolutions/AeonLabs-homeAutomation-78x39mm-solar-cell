@@ -38,6 +38,11 @@ One important takeaway about this prototype project is the ability to be install
 <a href="https://s.click.aliexpress.com/e/_DlwnoeN" target="_blank"><img src="https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/blob/main/media/78x39mm_solar_tile.jpg" height="350" /></a>
 </p>
 
+## Status 
+This 78x39mm Solar Cell support PCB design project is completed. Have a look at the final PCB design. 
+
+**Zero breaks when assembling it with the fragile solar cell**
+
 ## PCB
 
 There are 10 different PCB types for this same solar cell assembly. Each type enables power harvesting on independent two copper track power lines. An unlimited number of solar cell tiles can be connected in series. Common setups are:
