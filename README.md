@@ -38,7 +38,7 @@ One important takeaway about this prototype project is the ability to be install
 <a href="https://s.click.aliexpress.com/e/_DlwnoeN" target="_blank"><img src="https://github.com/aeonSolutions/AeonLabs-homeAutomation-78x39mm-solar-cell/blob/main/media/78x39mm_solar_tile.jpg" height="350" /></a>
 </p>
 
-## Status 
+### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png) Status
 This 78x39mm Solar Cell support PCB design project is completed. Have a look at the final PCB design. 
 
 **Zero breaks when assembling it with the fragile solar cell**
